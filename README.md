@@ -7,7 +7,7 @@ An end-to-end analysis of a retail transactions dataset using SQL and Tableau,
 answering a core business question: where is this company losing money, and 
 what should it do differently?
 
-**Live Dashboard:** https://public.tableau.com/app/profile/adrian.firmansyah.adi/viz/SuperSales_17879943772920/Dashboard1?publish=yes
+**Live Dashboard:** https://public.tableau.com/app/profile/adrian.firmansyah.adi/viz/SuperSalesRetailSalesProfitAnalysis/Dashboard1?publish=yes
 
 ## Tools
 PostgreSQL (via Supabase) for querying, Tableau Public for visualization.
